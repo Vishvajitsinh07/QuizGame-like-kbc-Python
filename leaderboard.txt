@@ -1,0 +1,6 @@
+Score: 0 rupees
+Score: 45000 rupees
+Name: ab, Age: ss, Score: 11000 rupees
+Name: V, Age: 20, Score: 1131000 rupees
+Name: v, Age: 20, Score: 11000 rupees
+Name: a, Age: 2, Score: 1000 rupees
